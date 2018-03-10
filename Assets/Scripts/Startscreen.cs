@@ -17,7 +17,7 @@ public class Startscreen : MonoBehaviour {
 
    public void Playbutton()
     {
-        SceneManager.LoadScene("1");
+        SceneManager.LoadScene("GameScene");
     }
 
    public  void QuitButton()
